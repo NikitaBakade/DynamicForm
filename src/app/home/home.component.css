@@ -1,0 +1,38 @@
+/* .py-5{
+    background-color: lightblue;
+}
+.card-body{
+    text-align: center;
+}
+img{
+    height: 150px;
+}
+.py-3{
+    text-align: center;
+    font-size: 50px;
+}
+.col-md-8{
+    margin-left: 38%;
+    font-size: 30px;
+}
+.dynamic-form{
+    font-size: 20px;
+    margin-left: 10%;
+}
+.btn{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color:lightcoral;
+    margin-left: 20px;
+}
+.form-control{
+    padding: 5px;
+} */
+
+.addArray{
+    color: white;
+    margin-bottom: 20px;
+    background-color:teal;
+    border-radius: 7px;
+}
